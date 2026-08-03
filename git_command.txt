@@ -1,0 +1,23 @@
+2 ls                                                                                                                                                        
+   3 rm .\testing.py                                                                                                                                           
+   4 ls                                                                                                                                                        
+   5 git init                                                                                                                                                  
+   10 ls -Force                                                                                                                                                 
+  11 Get-ChildItem -Force                                                                                                                                      
+                                                                                                                                                         
+  15 cd .\.git\                                                                                                                                                
+                                                                                                                                                 
+  22 git add .\testing.py                                                                                                                                      
+  23 git status                                                                                                                                                
+  24 git rm --cached .\testing.py                                                                                                                              
+                                                                                                                                                 
+  26 git add .\testing.py                                                                                                                                      
+                                                                                                                                               
+  28 git commit -m "my file1 time add"                                                                                                                         
+                                                                                                                                              
+  30 ls                                                                                                                                                        
+  31 rm .\testing.py                                                                                                                                           
+                                                                                                                                             
+  34 git restore testing.py                                                                                                                                    
+  35 history                                                                                                                                                   
+  36 cls
