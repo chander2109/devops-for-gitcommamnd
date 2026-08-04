@@ -21,3 +21,4 @@
   34 git restore testing.py                                                                                                                                    
   35 history                                                                                                                                                   
   36 cls
+  37 this my persnal things 
